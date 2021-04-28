@@ -1,5 +1,8 @@
 <template>
   <div class="hello">
+    <icon-svg icon-class="xiaolian"/>
+    <icon-svg icon-class="ok"/>
+    <icon-svg icon-class="fengche"/>
     <h1>{{ msg }}</h1>
     <p>
       For a guide and recipes on how to configure / customize this project,<br>
